@@ -12,51 +12,47 @@
 
 body{
     background-color: #f3eee4;
-    display: flex;
-    height: 100vh;
+    display: flex;   
 }
 
 
 .main {
     background-color: #f3eee4;
-    width: 700px; 
-  
-    height: 80vh;
-    
+    width: 600px; 
+   
 }
-
 
 
 h1{
     font-family: atkinson-bold;
     color: #1c2334;
-    margin-left: 20px;
+    margin-left: 40px;
 }
 
 h2{
     font-family: atkinson-bold;
     color: #1c2334;
-    margin-left: 20px;
+    margin-left: 40px;
 }
 
 
 .spn{
     font-family: atkinson-Regular;
     color: #1c2334;
-    margin-left: 20px;
+    margin-left: 40px;
 }
  
 
  .first{
     font-family: atkinson-Regular;
     color:#bb1450;
-    margin-left: 20px;
+    margin-left: 40px;
     
  }
  .img{
     
     padding-left: 100%;
-    margin-right:020px;
+    margin-right: 20px;
     object-position: bottom 70px right 40px;
     
 
@@ -64,31 +60,37 @@ h2{
  .card_1 {
      background-color:  #e5bf55;
      width: 250%;  
-     height: 300px;
-     margin-left:0px;
+     height: 270px;
+     
     
  }
 
  .card_1text{
       
       justify-content: center;
+      
  }
+ 
 
  .btn{
    
     justify-content: center;
     align-items: center;
+
  }
  
 .bt_1{
     background-color: #1c2334;
     border-radius: 10px;
-    border: #bb1450;
-    margin-right: 5px;
+    border-width: 2px;
+    margin-right: 10px;
     width: 150px;
     height: 30px;
-    padding: 10px;
+    padding: 5px;
+    border-color: #bb1450;
     color: #f3eee4;
+   
+
   
 }
 
@@ -99,7 +101,7 @@ h2{
    outline: #1c2334;
    width: 200px;
    height: 30px;
-   padding: 10px;
+   padding: 5px;
 }
 
 
@@ -107,10 +109,10 @@ h2{
 .last_card{
   color: #1c2334;
   width: 250%;
- 
+  background-color:lemonchiffon;
   justify-content: center;
   
-  height: 0px;
+  height: 60px;
  
 }
     
